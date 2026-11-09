@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codadowilliam.github.io/lokinglass/sitemap.xml
